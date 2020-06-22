@@ -1,0 +1,73 @@
+html, body {
+	font-family: 'Oswald', sans-serif;
+	margin: 0;
+}
+
+header{
+	background-image: url("https://images.squarespace-cdn.com/content/v1/5862e844440243348802fb86/1549578247076-YCE3TABDTJ8ZWQIRNAHP/ke17ZwdGBToddI8pDm48kK1waWzIs_H5eMekht6incl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5_bKZC91eG95My-egx3nIBRWaAZTvytOvd3E6H8nhU8GXaqCeLWc894DlLZ5gzlg/IASIP-Paddy%27s-bar-4-170124.jpg?format=1500w");
+	text-align: center;
+	padding: 20px;
+	margin: -15px;
+	box-shadow: 0 10px 20px black;
+}
+
+h1{
+	
+	font-size: 70px;
+	font-style: italic;
+	color: white;
+	text-shadow: 0 4px 20px black;
+	text-transform: uppercase;
+
+}
+	
+header img{
+	width: 245px;
+	height: 245px;
+	margin-right: 30px;
+	border-radius: 150px;
+	
+}
+
+div {
+	background-color: #282929;
+	color: white;
+}
+
+.content{
+	max-width: 700px;
+	margin: 0 auto;
+	background-color: #031618;
+	padding: 0px 20px 20px;
+	border-radius: 20px;
+}
+
+img.big-image{
+	border-radius: 10px;
+
+}
+
+p.caption{
+	font-size: 10px;
+	color: grey;
+	font-style: italic;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	padding: 15px;
+	border-radius: 15px;
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Download-Free-Beer-Photo.jpg");
+	box-shadow: 0 10px 20px black;
+	color: white;
+
+}
+
+footer{
+
+	padding: 10px;
+	text-align: center;
+	opacity: 50%;
+	background-color: #180316;
+}
